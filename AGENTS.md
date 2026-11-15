@@ -8,7 +8,7 @@ Before inspecting or changing this repository, read:
 ## Non-negotiable project rules
 
 - Work only in this public demo repository unless the owner explicitly authorizes another target.
-- Never modify the private repository PelzA83/EventFlow.
+- Never modify the private repository pelzdesign/EventFlow.
 - Do not treat planned work as implemented work. In particular, 10-second dashboard polling is agreed but is not yet in the code.
 - Do not expose or request Supabase Service Role Keys, passwords, invitation tokens, or real personal data.
 - The organizer code 1234 is a demo-only gate, not authentication.
